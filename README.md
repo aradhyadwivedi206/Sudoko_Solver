@@ -17,11 +17,13 @@ A web-based Sudoku Solver built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Screenshots
-
+Home Page----------------------------------------------------
 ![Home](home.png)
 
+Error---------------------------------------------------------
 ![error](error.png)
 
+Solved page----------------------------------------------------
 ![Solved](solve.png)
 
 ## How to Run
